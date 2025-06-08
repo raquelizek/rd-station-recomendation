@@ -7,7 +7,7 @@ recomendar os produtos RD Station mais adequados ao seu negócio.
 ## 📌 Configurações do projeto
 ● <b>Baixando o repositório</b>
 ```
-git clone [https://github.com/raquelizek/shortLinkr-FrontEnd.git](https://github.com/raquelizek/rd-station-recomendation)
+git clone https://github.com/raquelizek/rd-station-recomendation
 ```
 
 ● <b>Instalando dependências</b>
