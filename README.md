@@ -42,3 +42,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 - [VSCode](https://code.visualstudio.com/https://aws.amazon.com/pt/s3)
 
 <br>
+
+## 💻 Prévia do projeto
+![Demonstração do recurso](https://i.imgur.com/DQHwH0s.gif)
+
