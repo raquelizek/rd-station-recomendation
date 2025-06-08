@@ -1,4 +1,4 @@
-# RD Station Intelligence 
+ # RD Station Intelligence 
 
 ## 💻 Projeto
 Um projeto feito para analisar as preferências e necessidades do usuário e em seguida 
@@ -31,7 +31,7 @@ yarn test
 ```
 
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
