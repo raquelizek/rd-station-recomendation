@@ -4,7 +4,7 @@
 Um projeto feito para analisar as preferências e necessidades do usuário e em seguida 
 recomendar os produtos RD Station mais adequados ao seu negócio.
 
-## 📌 Project setup
+## 📌 Configurações do projeto
 ● <b>Baixando o repositório</b>
 ```
 git clone [https://github.com/raquelizek/shortLinkr-FrontEnd.git](https://github.com/raquelizek/rd-station-recomendation)
