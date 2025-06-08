@@ -27,6 +27,7 @@ yarn start
 
 ● <b>Rodando testes unitários</b>
 ```
+cd frontend/
 yarn test
 ```
 
