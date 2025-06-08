@@ -38,7 +38,6 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 - [ReactJS](https://react.dev/)
 - [Tailwindcss](https://tailwindcss.com/)
 - [NodeJS](https://nodejs.org/en/)
-- [NodeJS](https://nodejs.org/en/)
 - [VSCode](https://code.visualstudio.com/https://aws.amazon.com/pt/s3)
 
 <br>
